@@ -1,0 +1,6 @@
+{
+  "name": "DocEase Uganda",
+  "description": "Tap. Fill. Download. Professional documents in minutes for Ugandan offices, schools, churches, and NGOs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
